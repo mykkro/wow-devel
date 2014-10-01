@@ -1,0 +1,19 @@
+{
+  "name": "feeds",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "feed": "~0.2.6",
+    "method-override": "~2.2.0",
+    "body-parser": "~1.9.0",
+    "errorhandler": "~1.2.0",
+    "express": "~4.9.5",
+    "xml": "~1.0.0"
+  }
+}
